@@ -1,0 +1,15 @@
+body {
+  font-family: Roboto;
+  font-size: 20px;
+  text-align: center;
+  color: #090909;
+  background-color: #ffda96;
+}
+
+#mainCan {
+  font-size: 20px;
+  height: 500px;
+  width: 950px;
+  border: solid 4px black;
+  border-radius: 10px;
+}
